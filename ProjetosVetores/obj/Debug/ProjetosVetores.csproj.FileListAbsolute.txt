@@ -1,0 +1,7 @@
+C:\Users\carlos.esilva107\source\repos\ProjetosVetores\ProjetosVetores\obj\Debug\ProjetosVetores.csproj.AssemblyReference.cache
+C:\Users\carlos.esilva107\source\repos\ProjetosVetores\ProjetosVetores\obj\Debug\ProjetosVetores.csproj.CoreCompileInputs.cache
+C:\Users\carlos.esilva107\source\repos\ProjetosVetores\ProjetosVetores\bin\Debug\ProjetosVetores.exe.config
+C:\Users\carlos.esilva107\source\repos\ProjetosVetores\ProjetosVetores\bin\Debug\ProjetosVetores.exe
+C:\Users\carlos.esilva107\source\repos\ProjetosVetores\ProjetosVetores\bin\Debug\ProjetosVetores.pdb
+C:\Users\carlos.esilva107\source\repos\ProjetosVetores\ProjetosVetores\obj\Debug\ProjetosVetores.exe
+C:\Users\carlos.esilva107\source\repos\ProjetosVetores\ProjetosVetores\obj\Debug\ProjetosVetores.pdb
